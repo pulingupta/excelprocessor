@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-elbonia-expenditures.iml" filepath="$PROJECT_DIR$/java-elbonia-expenditures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-elbonia-expenditures_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-elbonia-expenditures_main.iml" group="java-elbonia-expenditures" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-elbonia-expenditures_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-elbonia-expenditures_test.iml" group="java-elbonia-expenditures" />
+    </modules>
+  </component>
+</project>
