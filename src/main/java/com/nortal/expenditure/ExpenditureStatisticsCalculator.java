@@ -48,11 +48,6 @@ public class ExpenditureStatisticsCalculator {
         return  Math.floor(totalAmount * taxPercentage) / 100;
     }
 
-    private double feeDifferenceProducts(List<Expenditure> exp){
-        //TODO
-        return 0.0;
-    }
-
     private BigDecimal getAvgFee(Double overallExpensesWithFees, Double overallExpenses){
         return new BigDecimal(Math.floor(overallExpensesWithFees * 100)/ overallExpenses, MathContext.DECIMAL64);
     }
